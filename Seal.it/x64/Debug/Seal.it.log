@@ -1,0 +1,110 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: Katalog pośredni (x64\Debug\) zawiera pliki udostępnione z innego projektu (Seal.it.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  array_list.cpp
+  glDraw.cpp
+  gltext.cpp
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\drawing\gltext.cpp(34,50): warning C4267: "argument": konwersja z "size_t" do "GLsizei", możliwa utrata danych
+  gui.cpp
+C:\Users\barte\Desktop\unnsense recode\Seal.it\settings\settings.h(18): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\barte\Desktop\unnsense recode\Seal.it\settings\settings.h(19): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\barte\Desktop\unnsense recode\Seal.it\settings\settings.h(20): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\gui\imguipp.h(94,64): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\gui\imguipp.h(94,51): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\gui\imguipp.h(94,38): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\gui\imguipp.h(94,25): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\gui\gui.cpp(69,29): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\gui\gui.cpp(70,29): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\gui\gui.cpp(190,29): warning C4042: „wasOpened”: ma złą klasę magazynu
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\gui\gui.cpp(301,80): warning C4305: "argument": obcięcie z "double" do "float"
+  hooks.cpp
+C:\Users\barte\Desktop\unnsense recode\Seal.it\settings\settings.h(18): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\barte\Desktop\unnsense recode\Seal.it\settings\settings.h(19): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\barte\Desktop\unnsense recode\Seal.it\settings\settings.h(20): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\hooks\hooks.cpp(180,36): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\hooks\hooks.cpp(204,50): warning C4244: "argument": konwersja z "float" do "GLubyte", możliwa utrata danych
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\hooks\hooks.cpp(211,29): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\hooks\hooks.cpp(274,131): warning C4244: "argument": konwersja z "_Ty" do "DWORD", możliwa utrata danych
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\hooks\hooks.cpp(275,131): warning C4244: "argument": konwersja z "_Ty" do "DWORD", możliwa utrata danych
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\hooks\hooks.cpp(364,30): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\hooks\hooks.cpp(512,58): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\hooks\hooks.cpp(513,57): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\hooks\hooks.cpp(518,57): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\hooks\hooks.cpp(519,56): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\hooks\hooks.cpp(524,52): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\hooks\hooks.cpp(525,53): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\hooks\hooks.cpp(526,56): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\hooks\hooks.cpp(527,55): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\hooks\hooks.cpp(530,53): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\hooks\hooks.cpp(531,54): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\hooks\hooks.cpp(532,57): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\hooks\hooks.cpp(533,56): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\hooks\hooks.cpp(536,55): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\hooks\hooks.cpp(537,56): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\hooks\hooks.cpp(538,56): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\hooks\hooks.cpp(539,57): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\hooks\hooks.cpp(542,52): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\hooks\hooks.cpp(543,53): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\hooks\hooks.cpp(544,53): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\hooks\hooks.cpp(545,54): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\hooks\hooks.cpp(558,58): warning C4244: "argument": konwersja z "float" do "GLubyte", możliwa utrata danych
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\hooks\hooks.cpp(569,54): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\hooks\hooks.cpp(570,53): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\hooks\hooks.cpp(573,53): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\hooks\hooks.cpp(574,52): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\hooks\hooks.cpp(577,48): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\hooks\hooks.cpp(578,49): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\hooks\hooks.cpp(581,49): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\hooks\hooks.cpp(582,50): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\hooks\hooks.cpp(593,51): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\hooks\hooks.cpp(594,52): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\hooks\hooks.cpp(597,52): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\hooks\hooks.cpp(598,53): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\hooks\hooks.cpp(601,53): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\hooks\hooks.cpp(602,50): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\hooks\hooks.cpp(605,52): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\hooks\hooks.cpp(606,49): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\hooks\hooks.cpp(609,51): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\hooks\hooks.cpp(610,48): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\hooks\hooks.cpp(613,52): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\hooks\hooks.cpp(614,49): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\hooks\hooks.cpp(638,20): error C2664: „HMODULE GetModuleHandleW(LPCWSTR)”: nie można dokonać konwersji argumentu 1 z „const char [13]” do „LPCWSTR”
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\hooks\hooks.cpp(638,36): message : Wskazane typy nie są powiązane; konwersja wymaga operatora reinterpret_cast, rzutowania w stylu języka C lub rzutowania w stylu funkcji ujętego w nawiasach
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\libloaderapi.h(244,1): message : zobacz deklarację „GetModuleHandleW”
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\hooks\hooks.cpp(638,20): message : podczas próby dopasowania listy argumentów "(const char [13])"
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\hooks\hooks.cpp(639,24): error C2664: „HMODULE GetModuleHandleW(LPCWSTR)”: nie można dokonać konwersji argumentu 1 z „const char [13]” do „LPCWSTR”
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\hooks\hooks.cpp(639,40): message : Wskazane typy nie są powiązane; konwersja wymaga operatora reinterpret_cast, rzutowania w stylu języka C lub rzutowania w stylu funkcji ujętego w nawiasach
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\libloaderapi.h(244,1): message : zobacz deklarację „GetModuleHandleW”
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\hooks\hooks.cpp(639,24): message : podczas próby dopasowania listy argumentów "(const char [13])"
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\hooks\hooks.cpp(640,21): error C2664: „HMODULE GetModuleHandleW(LPCWSTR)”: nie można dokonać konwersji argumentu 1 z „const char [10]” do „LPCWSTR”
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\hooks\hooks.cpp(640,37): message : Wskazane typy nie są powiązane; konwersja wymaga operatora reinterpret_cast, rzutowania w stylu języka C lub rzutowania w stylu funkcji ujętego w nawiasach
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\libloaderapi.h(244,1): message : zobacz deklarację „GetModuleHandleW”
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\hooks\hooks.cpp(640,21): message : podczas próby dopasowania listy argumentów "(const char [10])"
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\hooks\hooks.cpp(641,19): error C2664: „HMODULE GetModuleHandleW(LPCWSTR)”: nie można dokonać konwersji argumentu 1 z „const char [11]” do „LPCWSTR”
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\hooks\hooks.cpp(641,35): message : Wskazane typy nie są powiązane; konwersja wymaga operatora reinterpret_cast, rzutowania w stylu języka C lub rzutowania w stylu funkcji ujętego w nawiasach
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\libloaderapi.h(244,1): message : zobacz deklarację „GetModuleHandleW”
+C:\Users\barte\Desktop\unnsense recode\Seal.it\cheat\hooks\hooks.cpp(641,19): message : podczas próby dopasowania listy argumentów "(const char [11])"
+  dllmain.cpp
+C:\Users\barte\Desktop\unnsense recode\Seal.it\dllmain.cpp(14,15): warning C4101: "f": lokalna zmienna, do której nie istnieje odwołanie
+  imgui.cpp
+  imgui_checkbox.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+C:\Users\barte\Desktop\unnsense recode\Seal.it\libs\imgui\imgui_widgets.cpp(1424,50): warning C4244: "+=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\barte\Desktop\unnsense recode\Seal.it\libs\imgui\imgui_widgets.cpp(1426,50): warning C4244: "-=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\barte\Desktop\unnsense recode\Seal.it\libs\imgui\imgui_widgets.cpp(1434,47): warning C4244: "+=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\barte\Desktop\unnsense recode\Seal.it\libs\imgui\imgui_widgets.cpp(1436,47): warning C4244: "-=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\barte\Desktop\unnsense recode\Seal.it\libs\imgui\imgui_widgets.cpp(1444,49): warning C4244: "+=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\barte\Desktop\unnsense recode\Seal.it\libs\imgui\imgui_widgets.cpp(1446,49): warning C4244: "-=": konwersja z "float" do "int", możliwa utrata danych
+  Generowanie kodu...

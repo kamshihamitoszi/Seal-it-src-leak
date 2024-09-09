@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="cheat">
+      <UniqueIdentifier>{994e10ab-3940-4b9d-928f-93044548242e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cheat\gui">
+      <UniqueIdentifier>{34248a96-2ae4-4af1-9af0-930541e61404}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cheat\hooks">
+      <UniqueIdentifier>{b3431a38-3872-48f4-b264-5984efb38f8a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cheat\array_list">
+      <UniqueIdentifier>{72ea4cf6-58a5-420e-a890-c5f24439ec6f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cheat\libs">
+      <UniqueIdentifier>{751f8482-5b44-4517-97ae-a50fb96a2b54}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cheat\libs\minhook">
+      <UniqueIdentifier>{64708a1a-c813-4157-a091-f438ad740f3c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cheat\libs\imgui">
+      <UniqueIdentifier>{f182be45-e244-4e3e-897f-50c627a15309}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cheat\settings">
+      <UniqueIdentifier>{ef0055c3-b71f-4cef-81a8-ef7b79d53d91}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cheat\drawing">
+      <UniqueIdentifier>{03d33566-2e35-4170-aab9-c1419321c237}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="dllmain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cheat\gui\gui.cpp">
+      <Filter>cheat\gui</Filter>
+    </ClCompile>
+    <ClCompile Include="cheat\hooks\hooks.cpp">
+      <Filter>cheat\hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="cheat\drawing\glDraw.cpp">
+      <Filter>cheat\drawing</Filter>
+    </ClCompile>
+    <ClCompile Include="cheat\drawing\gltext.cpp">
+      <Filter>cheat\drawing</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\minhook\trampoline.c">
+      <Filter>cheat\libs\minhook</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\minhook\buffer.c">
+      <Filter>cheat\libs\minhook</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\minhook\hde32.c">
+      <Filter>cheat\libs\minhook</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\minhook\hde64.c">
+      <Filter>cheat\libs\minhook</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\minhook\hook.c">
+      <Filter>cheat\libs\minhook</Filter>
+    </ClCompile>
+    <ClCompile Include="cheat\array_list\array_list.cpp">
+      <Filter>cheat\array_list</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\imgui\imgui_demo.cpp">
+      <Filter>cheat\libs\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\imgui\imgui_draw.cpp">
+      <Filter>cheat\libs\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\imgui\imgui_impl_glfw.cpp">
+      <Filter>cheat\libs\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\imgui\imgui_impl_opengl3.cpp">
+      <Filter>cheat\libs\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\imgui\imgui_impl_win32.cpp">
+      <Filter>cheat\libs\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\imgui\imgui_tables.cpp">
+      <Filter>cheat\libs\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\imgui\imgui_widgets.cpp">
+      <Filter>cheat\libs\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\imgui\imgui.cpp">
+      <Filter>cheat\libs\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\imgui\imgui_checkbox.cpp">
+      <Filter>cheat\libs\imgui</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="cheat\gui\fonts.h">
+      <Filter>cheat\gui</Filter>
+    </ClInclude>
+    <ClInclude Include="cheat\gui\gui.h">
+      <Filter>cheat\gui</Filter>
+    </ClInclude>
+    <ClInclude Include="cheat\gui\imguipp.h">
+      <Filter>cheat\gui</Filter>
+    </ClInclude>
+    <ClInclude Include="cheat\hooks\hooks.h">
+      <Filter>cheat\hooks</Filter>
+    </ClInclude>
+    <ClInclude Include="settings\settings.h">
+      <Filter>cheat\settings</Filter>
+    </ClInclude>
+    <ClInclude Include="cheat\drawing\glDraw.h">
+      <Filter>cheat\drawing</Filter>
+    </ClInclude>
+    <ClInclude Include="cheat\drawing\gltext.h">
+      <Filter>cheat\drawing</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\minhook\table32.h">
+      <Filter>cheat\libs\minhook</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\minhook\table64.h">
+      <Filter>cheat\libs\minhook</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\minhook\trampoline.h">
+      <Filter>cheat\libs\minhook</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\minhook\buffer.h">
+      <Filter>cheat\libs\minhook</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\minhook\hde32.h">
+      <Filter>cheat\libs\minhook</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\minhook\hde64.h">
+      <Filter>cheat\libs\minhook</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\minhook\MinHook.h">
+      <Filter>cheat\libs\minhook</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\minhook\pstdint.h">
+      <Filter>cheat\libs\minhook</Filter>
+    </ClInclude>
+    <ClInclude Include="cheat\array_list\array_list.h">
+      <Filter>cheat\array_list</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\imgui\imgui_impl_glfw.h">
+      <Filter>cheat\libs\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\imgui\imgui_impl_opengl3.h">
+      <Filter>cheat\libs\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\imgui\imgui_impl_win32.h">
+      <Filter>cheat\libs\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\imgui\imgui_internal.h">
+      <Filter>cheat\libs\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\imgui\imstb_rectpack.h">
+      <Filter>cheat\libs\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\imgui\imstb_textedit.h">
+      <Filter>cheat\libs\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\imgui\imstb_truetype.h">
+      <Filter>cheat\libs\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\imgui\imconfig.h">
+      <Filter>cheat\libs\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\imgui\imgui.h">
+      <Filter>cheat\libs\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\imgui\imgui_checkbox.h">
+      <Filter>cheat\libs\imgui</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

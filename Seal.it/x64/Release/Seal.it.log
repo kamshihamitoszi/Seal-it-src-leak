@@ -1,0 +1,225 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: Katalog pośredni (x64\Release\) zawiera pliki udostępnione z innego projektu (Seal.it.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  gui.cpp
+F:\unnsense\Seal.it\settings\settings.h(19,33): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+F:\unnsense\Seal.it\settings\settings.h(20,33): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+F:\unnsense\Seal.it\settings\settings.h(21,32): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+F:\unnsense\Seal.it\settings\settings.h(21,38): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+F:\unnsense\Seal.it\settings\settings.h(21,44): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+F:\unnsense\Seal.it\cheat\gui\imguipp.h(94,64): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+F:\unnsense\Seal.it\cheat\gui\imguipp.h(94,51): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+F:\unnsense\Seal.it\cheat\gui\imguipp.h(94,38): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+F:\unnsense\Seal.it\cheat\gui\imguipp.h(94,25): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+F:\imgui\imgui.h(25,1): warning C4005: "IMGUI_VERSION": ponowna definicja makra
+F:\imgui\imgui.h(26,1): warning C4005: "IMGUI_VERSION_NUM": ponowna definicja makra
+F:\imgui\imgui.h(169,6): error C2371: "ImGuiKey": zmiana definicji; różne typy podstawowe
+F:\imgui\imgui.h(255,1): error C2011: "ImVec2'': "struct" wpisz ponownie definicję
+F:\imgui\imgui.h(268,1): error C2011: "ImVec4'': "struct" wpisz ponownie definicję
+F:\imgui\imgui.h(289,76): error C2572: „ImGui::CreateContext”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(290,64): error C2572: „ImGui::DestroyContext”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(303,59): error C2572: „ImGui::ShowDemoWindow”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(304,62): error C2572: „ImGui::ShowMetricsWindow”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(307,60): error C2572: „ImGui::ShowAboutWindow”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(308,63): error C2572: „ImGui::ShowStyleEditor”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(315,63): error C2572: „ImGui::StyleColorsDark”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(316,64): error C2572: „ImGui::StyleColorsLight”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(317,66): error C2572: „ImGui::StyleColorsClassic”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(331,68): error C2572: „ImGui::Begin”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(331,99): error C2572: „ImGui::Begin”: ponowna definicja domyślnego argumentu: parametr 2
+F:\imgui\imgui.h(342,110): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "ImVec2"
+F:\imgui\imgui.h(343,80): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "ImVec2"
+F:\imgui\imgui.h(343,101): error C2572: „ImGui::BeginChild”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(343,133): error C2572: „ImGui::BeginChild”: ponowna definicja domyślnego argumentu: parametr 2
+F:\imgui\imgui.h(350,69): error C2572: „ImGui::IsWindowFocused”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(351,69): error C2572: „ImGui::IsWindowHovered”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(360,114): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "ImVec2"
+F:\imgui\imgui.h(360,82): error C2572: „ImGui::SetNextWindowPos”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(361,84): error C2572: „ImGui::SetNextWindowSize”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(362,142): error C2572: „ImGui::SetNextWindowSizeConstraints”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(362,177): error C2572: „ImGui::SetNextWindowSizeConstraints”: ponowna definicja domyślnego argumentu: parametr 2
+F:\imgui\imgui.h(364,85): error C2572: „ImGui::SetNextWindowCollapsed”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(368,78): error C2572: „ImGui::SetWindowPos”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(369,80): error C2572: „ImGui::SetWindowSize”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(370,81): error C2572: „ImGui::SetWindowCollapsed”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(373,96): error C2572: „ImGui::SetWindowPos”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(374,98): error C2572: „ImGui::SetWindowSize”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(375,99): error C2572: „ImGui::SetWindowCollapsed”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(395,67): error C2572: „ImGui::SetScrollHereX”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(396,67): error C2572: „ImGui::SetScrollHereY”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(397,85): error C2572: „ImGui::SetScrollFromPosX”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(398,85): error C2572: „ImGui::SetScrollFromPosY”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(405,55): error C2572: „ImGui::PopStyleColor”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(408,53): error C2572: „ImGui::PopStyleVar”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(419,70): error C2572: „ImGui::PushTextWrapPos”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(427,73): error C2572: „ImGui::GetColorU32”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(440,64): error C2572: „ImGui::SameLine”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(440,85): error C2572: „ImGui::SameLine”: ponowna definicja domyślnego argumentu: parametr 2
+F:\imgui\imgui.h(444,53): error C2572: „ImGui::Indent”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(445,55): error C2572: „ImGui::Unindent”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(484,86): error C2572: „ImGui::TextUnformatted”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(502,83): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "ImVec2"
+F:\imgui\imgui.h(504,110): error C2572: „ImGui::InvisibleButton”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(511,90): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "ImVec2"
+F:\imgui\imgui.h(511,125): error C2572: „ImGui::ProgressBar”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(516,111): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "ImVec2"
+F:\imgui\imgui.h(516,145): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "ImVec2"
+F:\imgui\imgui.h(516,184): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "ImVec4"
+F:\imgui\imgui.h(516,231): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "ImVec4"
+F:\imgui\imgui.h(517,137): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "ImVec2"
+F:\imgui\imgui.h(517,171): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "ImVec2"
+F:\imgui\imgui.h(517,208): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "ImVec4"
+F:\imgui\imgui.h(517,253): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "ImVec4"
+F:\imgui\imgui.h(522,110): error C2572: „ImGui::BeginCombo”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(524,150): error C2572: „ImGui::Combo”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(525,144): error C2572: „ImGui::Combo”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(527,200): error C2572: „ImGui::Combo”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(544,84): error C2572: „ImGui::DragFloat”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(544,104): error C2572: „ImGui::DragFloat”: ponowna definicja domyślnego argumentu: parametr 2
+F:\imgui\imgui.h(544,124): error C2572: „ImGui::DragFloat”: ponowna definicja domyślnego argumentu: parametr 3
+F:\imgui\imgui.h(544,151): error C2572: „ImGui::DragFloat”: ponowna definicja domyślnego argumentu: parametr 4
+F:\imgui\imgui.h(544,184): error C2572: „ImGui::DragFloat”: ponowna definicja domyślnego argumentu: parametr 5
+F:\imgui\imgui.h(545,87): error C2572: „ImGui::DragFloat2”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(545,107): error C2572: „ImGui::DragFloat2”: ponowna definicja domyślnego argumentu: parametr 2
+F:\imgui\imgui.h(545,127): error C2572: „ImGui::DragFloat2”: ponowna definicja domyślnego argumentu: parametr 3
+F:\imgui\imgui.h(545,154): error C2572: „ImGui::DragFloat2”: ponowna definicja domyślnego argumentu: parametr 4
+F:\imgui\imgui.h(545,187): error C2572: „ImGui::DragFloat2”: ponowna definicja domyślnego argumentu: parametr 5
+F:\imgui\imgui.h(546,87): error C2572: „ImGui::DragFloat3”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(546,107): error C2572: „ImGui::DragFloat3”: ponowna definicja domyślnego argumentu: parametr 2
+F:\imgui\imgui.h(546,127): error C2572: „ImGui::DragFloat3”: ponowna definicja domyślnego argumentu: parametr 3
+F:\imgui\imgui.h(546,154): error C2572: „ImGui::DragFloat3”: ponowna definicja domyślnego argumentu: parametr 4
+F:\imgui\imgui.h(546,187): error C2572: „ImGui::DragFloat3”: ponowna definicja domyślnego argumentu: parametr 5
+F:\imgui\imgui.h(547,87): error C2572: „ImGui::DragFloat4”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(547,107): error C2572: „ImGui::DragFloat4”: ponowna definicja domyślnego argumentu: parametr 2
+F:\imgui\imgui.h(547,127): error C2572: „ImGui::DragFloat4”: ponowna definicja domyślnego argumentu: parametr 3
+F:\imgui\imgui.h(547,154): error C2572: „ImGui::DragFloat4”: ponowna definicja domyślnego argumentu: parametr 4
+F:\imgui\imgui.h(547,187): error C2572: „ImGui::DragFloat4”: ponowna definicja domyślnego argumentu: parametr 5
+F:\imgui\imgui.h(548,124): error C2572: „ImGui::DragFloatRange2”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(548,144): error C2572: „ImGui::DragFloatRange2”: ponowna definicja domyślnego argumentu: parametr 2
+F:\imgui\imgui.h(548,164): error C2572: „ImGui::DragFloatRange2”: ponowna definicja domyślnego argumentu: parametr 3
+F:\imgui\imgui.h(548,191): error C2572: „ImGui::DragFloatRange2”: ponowna definicja domyślnego argumentu: parametr 4
+F:\imgui\imgui.h(548,224): error C2572: „ImGui::DragFloatRange2”: ponowna definicja domyślnego argumentu: parametr 5
+F:\imgui\imgui.h(548,255): error C2572: „ImGui::DragFloatRange2”: ponowna definicja domyślnego argumentu: parametr 6
+F:\imgui\imgui.h(549,80): error C2572: „ImGui::DragInt”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(549,98): error C2572: „ImGui::DragInt”: ponowna definicja domyślnego argumentu: parametr 2
+F:\imgui\imgui.h(549,113): error C2572: „ImGui::DragInt”: ponowna definicja domyślnego argumentu: parametr 3
+F:\imgui\imgui.h(549,137): error C2572: „ImGui::DragInt”: ponowna definicja domyślnego argumentu: parametr 4
+F:\imgui\imgui.h(549,168): error C2572: „ImGui::DragInt”: ponowna definicja domyślnego argumentu: parametr 5
+F:\imgui\imgui.h(550,83): error C2572: „ImGui::DragInt2”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(550,101): error C2572: „ImGui::DragInt2”: ponowna definicja domyślnego argumentu: parametr 2
+F:\imgui\imgui.h(550,116): error C2572: „ImGui::DragInt2”: ponowna definicja domyślnego argumentu: parametr 3
+F:\imgui\imgui.h(550,140): error C2572: „ImGui::DragInt2”: ponowna definicja domyślnego argumentu: parametr 4
+F:\imgui\imgui.h(550,171): error C2572: „ImGui::DragInt2”: ponowna definicja domyślnego argumentu: parametr 5
+F:\imgui\imgui.h(551,83): error C2572: „ImGui::DragInt3”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(551,101): error C2572: „ImGui::DragInt3”: ponowna definicja domyślnego argumentu: parametr 2
+F:\imgui\imgui.h(551,116): error C2572: „ImGui::DragInt3”: ponowna definicja domyślnego argumentu: parametr 3
+F:\imgui\imgui.h(551,140): error C2572: „ImGui::DragInt3”: ponowna definicja domyślnego argumentu: parametr 4
+F:\imgui\imgui.h(551,140): error C1003: Licznik błędów przekracza 100; zatrzymywanie kompilacji
+  hooks.cpp
+F:\unnsense\Seal.it\settings\settings.h(19,33): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+F:\unnsense\Seal.it\settings\settings.h(20,33): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+F:\unnsense\Seal.it\settings\settings.h(21,32): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+F:\unnsense\Seal.it\settings\settings.h(21,38): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+F:\unnsense\Seal.it\settings\settings.h(21,44): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+F:\imgui\imgui.h(25,1): warning C4005: "IMGUI_VERSION": ponowna definicja makra
+F:\imgui\imgui.h(26,1): warning C4005: "IMGUI_VERSION_NUM": ponowna definicja makra
+F:\imgui\imgui.h(169,6): error C2371: "ImGuiKey": zmiana definicji; różne typy podstawowe
+F:\imgui\imgui.h(255,1): error C2011: "ImVec2'': "struct" wpisz ponownie definicję
+F:\imgui\imgui.h(268,1): error C2011: "ImVec4'': "struct" wpisz ponownie definicję
+F:\imgui\imgui.h(289,76): error C2572: „ImGui::CreateContext”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(290,64): error C2572: „ImGui::DestroyContext”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(303,59): error C2572: „ImGui::ShowDemoWindow”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(304,62): error C2572: „ImGui::ShowMetricsWindow”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(307,60): error C2572: „ImGui::ShowAboutWindow”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(308,63): error C2572: „ImGui::ShowStyleEditor”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(315,63): error C2572: „ImGui::StyleColorsDark”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(316,64): error C2572: „ImGui::StyleColorsLight”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(317,66): error C2572: „ImGui::StyleColorsClassic”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(331,68): error C2572: „ImGui::Begin”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(331,99): error C2572: „ImGui::Begin”: ponowna definicja domyślnego argumentu: parametr 2
+F:\imgui\imgui.h(342,110): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "ImVec2"
+F:\imgui\imgui.h(343,80): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "ImVec2"
+F:\imgui\imgui.h(343,101): error C2572: „ImGui::BeginChild”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(343,133): error C2572: „ImGui::BeginChild”: ponowna definicja domyślnego argumentu: parametr 2
+F:\imgui\imgui.h(350,69): error C2572: „ImGui::IsWindowFocused”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(351,69): error C2572: „ImGui::IsWindowHovered”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(360,114): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "ImVec2"
+F:\imgui\imgui.h(360,82): error C2572: „ImGui::SetNextWindowPos”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(361,84): error C2572: „ImGui::SetNextWindowSize”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(362,142): error C2572: „ImGui::SetNextWindowSizeConstraints”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(362,177): error C2572: „ImGui::SetNextWindowSizeConstraints”: ponowna definicja domyślnego argumentu: parametr 2
+F:\imgui\imgui.h(364,85): error C2572: „ImGui::SetNextWindowCollapsed”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(368,78): error C2572: „ImGui::SetWindowPos”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(369,80): error C2572: „ImGui::SetWindowSize”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(370,81): error C2572: „ImGui::SetWindowCollapsed”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(373,96): error C2572: „ImGui::SetWindowPos”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(374,98): error C2572: „ImGui::SetWindowSize”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(375,99): error C2572: „ImGui::SetWindowCollapsed”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(395,67): error C2572: „ImGui::SetScrollHereX”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(396,67): error C2572: „ImGui::SetScrollHereY”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(397,85): error C2572: „ImGui::SetScrollFromPosX”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(398,85): error C2572: „ImGui::SetScrollFromPosY”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(405,55): error C2572: „ImGui::PopStyleColor”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(408,53): error C2572: „ImGui::PopStyleVar”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(419,70): error C2572: „ImGui::PushTextWrapPos”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(427,73): error C2572: „ImGui::GetColorU32”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(440,64): error C2572: „ImGui::SameLine”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(440,85): error C2572: „ImGui::SameLine”: ponowna definicja domyślnego argumentu: parametr 2
+F:\imgui\imgui.h(444,53): error C2572: „ImGui::Indent”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(445,55): error C2572: „ImGui::Unindent”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(484,86): error C2572: „ImGui::TextUnformatted”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(502,83): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "ImVec2"
+F:\imgui\imgui.h(504,110): error C2572: „ImGui::InvisibleButton”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(511,90): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "ImVec2"
+F:\imgui\imgui.h(511,125): error C2572: „ImGui::ProgressBar”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(516,111): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "ImVec2"
+F:\imgui\imgui.h(516,145): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "ImVec2"
+F:\imgui\imgui.h(516,184): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "ImVec4"
+F:\imgui\imgui.h(516,231): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "ImVec4"
+F:\imgui\imgui.h(517,137): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "ImVec2"
+F:\imgui\imgui.h(517,171): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "ImVec2"
+F:\imgui\imgui.h(517,208): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "ImVec4"
+F:\imgui\imgui.h(517,253): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "ImVec4"
+F:\imgui\imgui.h(522,110): error C2572: „ImGui::BeginCombo”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(524,150): error C2572: „ImGui::Combo”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(525,144): error C2572: „ImGui::Combo”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(527,200): error C2572: „ImGui::Combo”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(544,84): error C2572: „ImGui::DragFloat”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(544,104): error C2572: „ImGui::DragFloat”: ponowna definicja domyślnego argumentu: parametr 2
+F:\imgui\imgui.h(544,124): error C2572: „ImGui::DragFloat”: ponowna definicja domyślnego argumentu: parametr 3
+F:\imgui\imgui.h(544,151): error C2572: „ImGui::DragFloat”: ponowna definicja domyślnego argumentu: parametr 4
+F:\imgui\imgui.h(544,184): error C2572: „ImGui::DragFloat”: ponowna definicja domyślnego argumentu: parametr 5
+F:\imgui\imgui.h(545,87): error C2572: „ImGui::DragFloat2”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(545,107): error C2572: „ImGui::DragFloat2”: ponowna definicja domyślnego argumentu: parametr 2
+F:\imgui\imgui.h(545,127): error C2572: „ImGui::DragFloat2”: ponowna definicja domyślnego argumentu: parametr 3
+F:\imgui\imgui.h(545,154): error C2572: „ImGui::DragFloat2”: ponowna definicja domyślnego argumentu: parametr 4
+F:\imgui\imgui.h(545,187): error C2572: „ImGui::DragFloat2”: ponowna definicja domyślnego argumentu: parametr 5
+F:\imgui\imgui.h(546,87): error C2572: „ImGui::DragFloat3”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(546,107): error C2572: „ImGui::DragFloat3”: ponowna definicja domyślnego argumentu: parametr 2
+F:\imgui\imgui.h(546,127): error C2572: „ImGui::DragFloat3”: ponowna definicja domyślnego argumentu: parametr 3
+F:\imgui\imgui.h(546,154): error C2572: „ImGui::DragFloat3”: ponowna definicja domyślnego argumentu: parametr 4
+F:\imgui\imgui.h(546,187): error C2572: „ImGui::DragFloat3”: ponowna definicja domyślnego argumentu: parametr 5
+F:\imgui\imgui.h(547,87): error C2572: „ImGui::DragFloat4”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(547,107): error C2572: „ImGui::DragFloat4”: ponowna definicja domyślnego argumentu: parametr 2
+F:\imgui\imgui.h(547,127): error C2572: „ImGui::DragFloat4”: ponowna definicja domyślnego argumentu: parametr 3
+F:\imgui\imgui.h(547,154): error C2572: „ImGui::DragFloat4”: ponowna definicja domyślnego argumentu: parametr 4
+F:\imgui\imgui.h(547,187): error C2572: „ImGui::DragFloat4”: ponowna definicja domyślnego argumentu: parametr 5
+F:\imgui\imgui.h(548,124): error C2572: „ImGui::DragFloatRange2”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(548,144): error C2572: „ImGui::DragFloatRange2”: ponowna definicja domyślnego argumentu: parametr 2
+F:\imgui\imgui.h(548,164): error C2572: „ImGui::DragFloatRange2”: ponowna definicja domyślnego argumentu: parametr 3
+F:\imgui\imgui.h(548,191): error C2572: „ImGui::DragFloatRange2”: ponowna definicja domyślnego argumentu: parametr 4
+F:\imgui\imgui.h(548,224): error C2572: „ImGui::DragFloatRange2”: ponowna definicja domyślnego argumentu: parametr 5
+F:\imgui\imgui.h(548,255): error C2572: „ImGui::DragFloatRange2”: ponowna definicja domyślnego argumentu: parametr 6
+F:\imgui\imgui.h(549,80): error C2572: „ImGui::DragInt”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(549,98): error C2572: „ImGui::DragInt”: ponowna definicja domyślnego argumentu: parametr 2
+F:\imgui\imgui.h(549,113): error C2572: „ImGui::DragInt”: ponowna definicja domyślnego argumentu: parametr 3
+F:\imgui\imgui.h(549,137): error C2572: „ImGui::DragInt”: ponowna definicja domyślnego argumentu: parametr 4
+F:\imgui\imgui.h(549,168): error C2572: „ImGui::DragInt”: ponowna definicja domyślnego argumentu: parametr 5
+F:\imgui\imgui.h(550,83): error C2572: „ImGui::DragInt2”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(550,101): error C2572: „ImGui::DragInt2”: ponowna definicja domyślnego argumentu: parametr 2
+F:\imgui\imgui.h(550,116): error C2572: „ImGui::DragInt2”: ponowna definicja domyślnego argumentu: parametr 3
+F:\imgui\imgui.h(550,140): error C2572: „ImGui::DragInt2”: ponowna definicja domyślnego argumentu: parametr 4
+F:\imgui\imgui.h(550,171): error C2572: „ImGui::DragInt2”: ponowna definicja domyślnego argumentu: parametr 5
+F:\imgui\imgui.h(551,83): error C2572: „ImGui::DragInt3”: ponowna definicja domyślnego argumentu: parametr 1
+F:\imgui\imgui.h(551,101): error C2572: „ImGui::DragInt3”: ponowna definicja domyślnego argumentu: parametr 2
+F:\imgui\imgui.h(551,116): error C2572: „ImGui::DragInt3”: ponowna definicja domyślnego argumentu: parametr 3
+F:\imgui\imgui.h(551,140): error C2572: „ImGui::DragInt3”: ponowna definicja domyślnego argumentu: parametr 4
+F:\imgui\imgui.h(551,140): error C1003: Licznik błędów przekracza 100; zatrzymywanie kompilacji
